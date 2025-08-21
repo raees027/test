@@ -1,1 +1,1 @@
-"i have changed tis variable from about page branchgit ";
+"i have changed this variable from about page branch ";
